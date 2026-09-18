@@ -43,5 +43,6 @@ Standard Rock-Paper-Scissors mechanics determine round outcomes:
 ### How to Run
 
 1. Clone or download this repository:
-    git clone [https://github.com/your-username/rock-paper-scissors.git](https://github.com/your-username/rock-paper-scissors.git)
-    cd rock-paper-scissors
+```
+git clone [https://github.com/your-username/rock-paper-scissors.git](https://github.com/your-username/rock-paper-scissors.git)
+cd rock-paper-scissors
